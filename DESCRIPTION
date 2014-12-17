@@ -1,0 +1,10 @@
+Package: RFolha
+Type: Package
+Title: Webscrapping de noticias do folha.com
+Version: 1.0
+Date: 2014-12-15
+Author: Daniel Falbel
+Maintainer: Daniel Falbel <dfalbel@gmail.com>
+Description: O pacote RFolha faz obter notícias do site da folha ser fácil por
+    meio do R.
+License: GPL
